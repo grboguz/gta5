@@ -6,4 +6,4 @@ Eğitimler ilerledikçe daha fazlası da eklenecektir. Kodların ayrıntılı a�
 ![alt text](https://raw.githubusercontent.com/grboguz/gta5/main/gta5.jpg)
 
 # Kaynakça
-Bu video serisi hazırlanırken sentdex'in oluşturduğu "Python Plays: Grand Theft Auto V" seriden ilham alınmıştır: https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a
+Bu video serisi sentdex'in oluşturduğu "Python Plays: Grand Theft Auto V" videolarından ilham alınarak hazırlanılmıştır: https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a
