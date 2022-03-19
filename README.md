@@ -3,4 +3,4 @@ Bu repo Youtube üzerinde yayınladığım GTA5 ile Sürücüsüz Araç gelişti
 
 Eğitimler ilerledikçe daha fazlası da eklenecektir. Kodların ayrıntılı açıklamaları için Youtube'daki ilgili oynatma listesine göz atabilirsiniz.
 
-![alt text](https://github.com/grboguz/opencv/blob/main/1_s9raSe9mLeSSuxE3API-ZA.gif)
+![alt text](https://raw.githubusercontent.com/grboguz/gta5/main/gta5.jpg)
